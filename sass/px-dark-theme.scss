@@ -298,7 +298,28 @@ html {
   --px-clipboard-icon-color--pressed  :  $primary-pressed;
   --px-clipboard-icon-color--copied   :  $status-green3;
 
-// Context Browser
+  // Code Editor
+  --px-code-editor-text-color                : $gray4;
+  --px-code-editor-gutter-background-color   : $gray16;
+  --px-code-editor-gutter-border-right       : 1px solid $gray15;
+  --px-code-editor-line-number-color         : $gray10;
+  --px-code-editor-cursor-border             : 1px solid $gray1;
+  --px-code-editor-selected-background-color : $gray14;
+  --px-code-editor-comment-color             : $gray9;
+  --px-code-editor-number-color              : $orange6;
+  --px-code-editor-string-color              : $brown1;
+  --px-code-editor-keyword-color             : $purple6;
+  --px-code-editor-variable-color            : $cyan2;
+  --px-code-editor-variable2-color           : $red2;
+  --px-code-editor-property-color            : $white;
+  --px-code-editor-atom-color                : $orange5;
+  --px-code-editor-def-color                 : $gray1;
+  --px-code-editor-tag-color                 : $red4;
+  --px-code-editor-attribute-color           : $orange5;
+  --px-code-editor-error-background-color    : $red8;
+  --px-code-editor-error-color               : $white;
+
+  // Context Browser
   --px-context-browser-header-background-color            :  $gray17;
   --px-context-browser-header-border-color                :  $gray18;
   --px-context-browser-header-text-color                  :  $select-default;
