@@ -1,3 +1,7 @@
+v2.1.2
+==================
+* add styles for breadcrumbs
+
 v2.1.1
 ==================
 * Add code editor styles
