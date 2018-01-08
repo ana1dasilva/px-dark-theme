@@ -1,3 +1,7 @@
+v2.1.3
+==================
+* add styles for modal
+
 v2.1.2
 ==================
 * add styles for breadcrumbs
