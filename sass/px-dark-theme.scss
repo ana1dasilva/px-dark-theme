@@ -587,10 +587,14 @@ html {
   --px-tab-border-color                      :  $gray15;
 
   // Tile
-  --px-tile-background-color                 :  $gray16;
+  --px-tile-background-color                 :  $gray18;
   --px-tile-thumbnail-background-color       :  $gray17;
   --px-tile-overlay-background-color         :  $gray2;
   --px-tile-overlay-text-color               :  $gray17;
+  --px-tile-text-background-color            :  $gray16;
+  --px-tile-title-color                      :  $gray1;
+  --px-tile-subtitle-color                   :  $gray5;
+  --px-tile-text-color                       :  $gray1;
 
   // Timeline
   --px-timeline-border-color                 :  $gray10;
