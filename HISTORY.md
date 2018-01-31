@@ -1,3 +1,7 @@
+v2.1.5
+==================
+* add styles for product-switcher
+
 v2.1.4
 ==================
 * add styles for tile

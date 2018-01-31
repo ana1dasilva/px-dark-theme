@@ -515,6 +515,15 @@ html {
   --px-popover-text-color        :  $gray5;
   --px-popover-shadow-color      :  rgba($black,0.15);
 
+  // Product Switcher
+  --px-product-switcher-border-color                       : $gray2;
+  --px-product-switcher-background-color                   : $gray2;
+  --px-product-switcher-background-color--hover            : $gray1;
+  --px-product-switcher-background-color--selected         : $select-default;
+  --px-product-switcher-background-color--selected--mobile : $white;
+  --px-product-switcher-text-color                         : $gray15;
+  --px-product-switcher-text-color--selected               : $gray15;
+
   // Progress Bar
   --px-progress-bar-fill-color        :  $primary-default;
   --px-progress-bar-background-color  :  $cyan1;
