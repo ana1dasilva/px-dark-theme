@@ -1,3 +1,7 @@
+v2.2.3
+==================
+* syncing bower.json & package.json version with github versions
+
 v2.1.6
 ==================
 * add styles for when calendar is invalid
