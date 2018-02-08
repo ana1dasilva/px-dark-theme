@@ -1,3 +1,7 @@
+v2.1.6
+==================
+* add styles for when calendar is invalid
+
 v2.1.5
 ==================
 * add styles for product-switcher

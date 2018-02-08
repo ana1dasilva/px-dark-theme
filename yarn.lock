@@ -889,10 +889,6 @@ fancy-log@^1.1.0, fancy-log@^1.2.0:
     chalk "^1.1.1"
     time-stamp "^1.0.0"
 
-file-sync-cmp@^0.1.0:
-  version "0.1.1"
-  resolved "https://registry.yarnpkg.com/file-sync-cmp/-/file-sync-cmp-0.1.1.tgz#a5e7a8ffbfa493b43b923bbd4ca89a53b63b612b"
-
 filename-regex@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/filename-regex/-/filename-regex-2.0.0.tgz#996e3e80479b98b9897f15a8a58b3d084e926775"
@@ -1222,17 +1218,6 @@ graceful-fs@~2.0.0:
 "graceful-readlink@>= 1.0.0":
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/graceful-readlink/-/graceful-readlink-1.0.1.tgz#4cafad76bc62f02fa039b2f94e9a3dd3a391a725"
-
-grunt-contrib-copy@^0.8.0:
-  version "0.8.2"
-  resolved "https://registry.yarnpkg.com/grunt-contrib-copy/-/grunt-contrib-copy-0.8.2.tgz#df31c90ffcc409bc9fafe44ec0dd1e4259916fea"
-  dependencies:
-    chalk "^1.1.1"
-    file-sync-cmp "^0.1.0"
-
-grunt-insert@^0.1.0:
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/grunt-insert/-/grunt-insert-0.1.0.tgz#3b2d2b1728db73a3c173f27ae15c0e7034be3221"
 
 gulp-autoprefixer@^3.1.0:
   version "3.1.1"
