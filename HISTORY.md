@@ -1,3 +1,7 @@
+v2.3.0
+==================
+* syncing bower.json & package.json version with github versions
+
 v2.2.3
 ==================
 * syncing bower.json & package.json version with github versions
