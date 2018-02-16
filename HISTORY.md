@@ -1,3 +1,7 @@
+v1.1.0
+=================
+* Build against latest pre-cirrus px-typography-design (Move typography CDN over to our own location)
+
 v1.0.10
 =================
 * added px-vis-dynamic-menu colors
