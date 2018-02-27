@@ -1,3 +1,7 @@
+v2.3.1
+==================
+* add styles for threshold bar
+
 v2.3.0
 ==================
 * syncing bower.json & package.json version with github versions
