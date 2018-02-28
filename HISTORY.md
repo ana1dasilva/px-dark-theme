@@ -1,3 +1,7 @@
+v2.3.2
+================
+* add styles for the datetime icon
+
 v2.3.1
 ==================
 * add styles for threshold bar

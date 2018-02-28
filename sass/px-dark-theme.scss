@@ -386,6 +386,8 @@ html {
 
   //Common
   --px-datetime-icon-color                           : $gray8;
+  --px-datetime-icon-color--hover                    : $primary-default;
+  --px-datetime-icon-color--pressed                  : $primary-pressed;
   --px-datetime-read-only-text-color                 : $gray12;
   --px-datetime-entry-selected                       : $cyan2;
   --px-datetime-preset-title-color                   : $gray10;
