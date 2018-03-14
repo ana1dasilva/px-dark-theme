@@ -1,3 +1,7 @@
+v2.4.1
+================
+* Added new datetime-picker var
+
 v2.4.0
 ================
 * Rebuild theme to pick up woff2 support from px-mixin-design
