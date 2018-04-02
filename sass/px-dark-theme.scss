@@ -926,6 +926,12 @@ html {
    // Row Details
    --px-data-grid-cell-details-background-color            :  $gray19;
 
+  // Custom Charts
+  --pce-floating-bar-color                                :  $cyan8;
+  --pce-floating-bar-hover-color                          :  $cyan6;
+  --pce-floating-bar-range-markers-color                  :  $cyan1;
+  --pce-floating-bar-actual-value-markers-color           :  $violet1;
+
   font-family:  $predix-font-family;
   font-size:  $inuit-base-font-size;
 }
